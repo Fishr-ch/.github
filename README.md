@@ -12,8 +12,8 @@ Fishr is our innovative app designed to bring the best fishing experience right 
 
 Ready to dive in? Download Fishr today and join our growing community!
 
-- **iOS**: [Download on the App Store](https://apps.apple.com)
-- **Android**: [Get it on Google Play](https://play.google.com)
+- **iOS**: [Download on the App Store](https://apps.apple.com/us/app/fishr-dein-fischerguide/id1579035655)
+- **Android**: [Get it on Google Play](https://play.google.com/store/apps/details?id=ch.fishr.fishr&gl=CH&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ## Why Choose Fishr?
 
